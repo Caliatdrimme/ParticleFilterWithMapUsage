@@ -111,10 +111,7 @@ random or precomp does not significantly differ
 but all other pairs differ significantly
 with the later one being slower, sort of correlates with the number of steps
 
-in general have pretty bad performance of locating the corrent location though
-the num_pass <=num_fail 
-and num_pass+num_close <=num_fail for all but first precomp (best on this although 0 pass?)
-and 2 of the last approach objectives
+
 
 not including the precomp time
 
